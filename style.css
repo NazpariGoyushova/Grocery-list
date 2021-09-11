@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    
+
+}
+body{
+    background-color: rgb(84, 84, 235)!important;
+   
+    
+}
+
+.box{
+    background:white;
+    border-radius: 8px;
+    width: 22rem;
+    height: 15rem;
+    margin: auto;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+}
+h1{
+    margin-left:25%;
+
+}
+input{
+    margin-left: 5px;
+    padding-left: 20px;
+    border: none;
+    outline: none;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    border-bottom:solid 2px black;
+}
+.fa-pen{
+    position: absolute;
+    margin-left: 5px;
+    font-size: 20px;
+
+}
+.foods{
+    padding: 15px;
+    font-size: 30px;
+    
+}
